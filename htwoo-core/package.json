@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "run-p pl:serve test:runner",
+    "test:runner": "npx playwright test --workers 9",
+    "test:snapshots": "npx playwright test --update-snapshots",
     "pl:build": "patternlab build --config ./patternlab-config.json",
     "pl:publish": "patternlab build --config ./patternlab-public.json",
     "pl:help": "patternlab --help",
@@ -36,6 +38,7 @@
     "@pattern-lab/uikit-workshop": "^5.14.2"
   },
   "devDependencies": {
+    "@playwright/test": "^1.12.3",
     "@rollup/plugin-json": "^4.1.0",
     "gulp": "^4.0.2",
     "gulp-autoprefixer": "^7.0.1",
