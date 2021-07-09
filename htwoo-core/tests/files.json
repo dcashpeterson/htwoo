@@ -1,0 +1,610 @@
+[
+    {
+        "path": "patterns/atoms-avatar-avatar/atoms-avatar-avatar.rendered.html",
+        "filename": "atoms-avatar-avatar"
+    },
+    {
+        "path": "patterns/atoms-avatar-avatar-16/atoms-avatar-avatar-16.rendered.html",
+        "filename": "atoms-avatar-avatar-16"
+    },
+    {
+        "path": "patterns/atoms-avatar-avatar-24/atoms-avatar-avatar-24.rendered.html",
+        "filename": "atoms-avatar-avatar-24"
+    },
+    {
+        "path": "patterns/atoms-avatar-avatar-32/atoms-avatar-avatar-32.rendered.html",
+        "filename": "atoms-avatar-avatar-32"
+    },
+    {
+        "path": "patterns/atoms-avatar-avatar-40/atoms-avatar-avatar-40.rendered.html",
+        "filename": "atoms-avatar-avatar-40"
+    },
+    {
+        "path": "patterns/atoms-avatar-avatar-48/atoms-avatar-avatar-48.rendered.html",
+        "filename": "atoms-avatar-avatar-48"
+    },
+    {
+        "path": "patterns/atoms-avatar-avatar-64/atoms-avatar-avatar-64.rendered.html",
+        "filename": "atoms-avatar-avatar-64"
+    },
+    {
+        "path": "patterns/atoms-avatar-presence/atoms-avatar-presence.rendered.html",
+        "filename": "atoms-avatar-presence"
+    },
+    {
+        "path": "patterns/atoms-avatar-presence-all/atoms-avatar-presence-all.rendered.html",
+        "filename": "atoms-avatar-presence-all"
+    },
+    {
+        "path": "patterns/atoms-box-effects-elevation/atoms-box-effects-elevation.rendered.html",
+        "filename": "atoms-box-effects-elevation"
+    },
+    {
+        "path": "patterns/atoms-box-effects-elevations/atoms-box-effects-elevations.rendered.html",
+        "filename": "atoms-box-effects-elevations"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-action/atoms-buttons-button-action.rendered.html",
+        "filename": "atoms-buttons-button-action"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-cmd/atoms-buttons-button-cmd.rendered.html",
+        "filename": "atoms-buttons-button-cmd"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-compound-primary/atoms-buttons-button-compound-primary.rendered.html",
+        "filename": "atoms-buttons-button-compound-primary"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-compound-standard/atoms-buttons-button-compound-standard.rendered.html",
+        "filename": "atoms-buttons-button-compound-standard"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-context/atoms-buttons-button-context.rendered.html",
+        "filename": "atoms-buttons-button-context"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-hyperlink-primary/atoms-buttons-button-hyperlink-primary.rendered.html",
+        "filename": "atoms-buttons-button-hyperlink-primary"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-hyperlink-standard/atoms-buttons-button-hyperlink-standard.rendered.html",
+        "filename": "atoms-buttons-button-hyperlink-standard"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-icon/atoms-buttons-button-icon.rendered.html",
+        "filename": "atoms-buttons-button-icon"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-icon-overflow/atoms-buttons-button-icon-overflow.rendered.html",
+        "filename": "atoms-buttons-button-icon-overflow"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-icon-split/atoms-buttons-button-icon-split.rendered.html",
+        "filename": "atoms-buttons-button-icon-split"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-pivot/atoms-buttons-button-pivot.rendered.html",
+        "filename": "atoms-buttons-button-pivot"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-pivot-active/atoms-buttons-button-pivot-active.rendered.html",
+        "filename": "atoms-buttons-button-pivot-active"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-primary/atoms-buttons-button-primary.rendered.html",
+        "filename": "atoms-buttons-button-primary"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-split-primary/atoms-buttons-button-split-primary.rendered.html",
+        "filename": "atoms-buttons-button-split-primary"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-split-standard/atoms-buttons-button-split-standard.rendered.html",
+        "filename": "atoms-buttons-button-split-standard"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-split-vars/atoms-buttons-button-split-vars.rendered.html",
+        "filename": "atoms-buttons-button-split-vars"
+    },
+    {
+        "path": "patterns/atoms-buttons-button-standard/atoms-buttons-button-standard.rendered.html",
+        "filename": "atoms-buttons-button-standard"
+    },
+    {
+        "path": "patterns/atoms-buttons-menu-flyouts/atoms-buttons-menu-flyouts.rendered.html",
+        "filename": "atoms-buttons-menu-flyouts"
+    },
+    {
+        "path": "patterns/atoms-global-button-colors/atoms-global-button-colors.rendered.html",
+        "filename": "atoms-global-button-colors"
+    },
+    {
+        "path": "patterns/atoms-global-colors/atoms-global-colors.rendered.html",
+        "filename": "atoms-global-colors"
+    },
+    {
+        "path": "patterns/atoms-global-neutral-colors/atoms-global-neutral-colors.rendered.html",
+        "filename": "atoms-global-neutral-colors"
+    },
+    {
+        "path": "patterns/atoms-global-other-colors/atoms-global-other-colors.rendered.html",
+        "filename": "atoms-global-other-colors"
+    },
+    {
+        "path": "patterns/atoms-global-primary-button-colors/atoms-global-primary-button-colors.rendered.html",
+        "filename": "atoms-global-primary-button-colors"
+    },
+    {
+        "path": "patterns/atoms-global-primary-colors/atoms-global-primary-colors.rendered.html",
+        "filename": "atoms-global-primary-colors"
+    },
+    {
+        "path": "patterns/atoms-grid-grid/atoms-grid-grid.rendered.html",
+        "filename": "atoms-grid-grid"
+    },
+    {
+        "path": "patterns/atoms-icons-icon/atoms-icons-icon.rendered.html",
+        "filename": "atoms-icons-icon"
+    },
+    {
+        "path": "patterns/atoms-icons-icon-svg/atoms-icons-icon-svg.rendered.html",
+        "filename": "atoms-icons-icon-svg"
+    },
+    {
+        "path": "patterns/atoms-images-image/atoms-images-image.rendered.html",
+        "filename": "atoms-images-image"
+    },
+    {
+        "path": "patterns/atoms-images-image-16by10/atoms-images-image-16by10.rendered.html",
+        "filename": "atoms-images-image-16by10"
+    },
+    {
+        "path": "patterns/atoms-images-image-16by9/atoms-images-image-16by9.rendered.html",
+        "filename": "atoms-images-image-16by9"
+    },
+    {
+        "path": "patterns/atoms-images-image-1by1/atoms-images-image-1by1.rendered.html",
+        "filename": "atoms-images-image-1by1"
+    },
+    {
+        "path": "patterns/atoms-input-checkbox/atoms-input-checkbox.rendered.html",
+        "filename": "atoms-input-checkbox"
+    },
+    {
+        "path": "patterns/atoms-input-checkbox-disabled/atoms-input-checkbox-disabled.rendered.html",
+        "filename": "atoms-input-checkbox-disabled"
+    },
+    {
+        "path": "patterns/atoms-input-input-prensufix/atoms-input-input-prensufix.rendered.html",
+        "filename": "atoms-input-input-prensufix"
+    },
+    {
+        "path": "patterns/atoms-input-input-text/atoms-input-input-text.rendered.html",
+        "filename": "atoms-input-input-text"
+    },
+    {
+        "path": "patterns/atoms-input-input-text-disabled/atoms-input-input-text-disabled.rendered.html",
+        "filename": "atoms-input-input-text-disabled"
+    },
+    {
+        "path": "patterns/atoms-input-input-text-invalid/atoms-input-input-text-invalid.rendered.html",
+        "filename": "atoms-input-input-text-invalid"
+    },
+    {
+        "path": "patterns/atoms-input-input-text-prefixed/atoms-input-input-text-prefixed.rendered.html",
+        "filename": "atoms-input-input-text-prefixed"
+    },
+    {
+        "path": "patterns/atoms-input-input-text-suffixed/atoms-input-input-text-suffixed.rendered.html",
+        "filename": "atoms-input-input-text-suffixed"
+    },
+    {
+        "path": "patterns/atoms-input-label/atoms-input-label.rendered.html",
+        "filename": "atoms-input-label"
+    },
+    {
+        "path": "patterns/atoms-input-label-disabled/atoms-input-label-disabled.rendered.html",
+        "filename": "atoms-input-label-disabled"
+    },
+    {
+        "path": "patterns/atoms-input-label-required/atoms-input-label-required.rendered.html",
+        "filename": "atoms-input-label-required"
+    },
+    {
+        "path": "patterns/atoms-input-radiobutton/atoms-input-radiobutton.rendered.html",
+        "filename": "atoms-input-radiobutton"
+    },
+    {
+        "path": "patterns/atoms-input-radiobutton-disabled/atoms-input-radiobutton-disabled.rendered.html",
+        "filename": "atoms-input-radiobutton-disabled"
+    },
+    {
+        "path": "patterns/atoms-input-searchbox/atoms-input-searchbox.rendered.html",
+        "filename": "atoms-input-searchbox"
+    },
+    {
+        "path": "patterns/atoms-input-select/atoms-input-select.rendered.html",
+        "filename": "atoms-input-select"
+    },
+    {
+        "path": "patterns/atoms-input-select-drop-down/atoms-input-select-drop-down.rendered.html",
+        "filename": "atoms-input-select-drop-down"
+    },
+    {
+        "path": "patterns/atoms-input-toggle/atoms-input-toggle.rendered.html",
+        "filename": "atoms-input-toggle"
+    },
+    {
+        "path": "patterns/atoms-loading-loading/atoms-loading-loading.rendered.html",
+        "filename": "atoms-loading-loading"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-circle/atoms-loading-shimmer-circle.rendered.html",
+        "filename": "atoms-loading-shimmer-circle"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-img/atoms-loading-shimmer-img.rendered.html",
+        "filename": "atoms-loading-shimmer-img"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-img-16x10/atoms-loading-shimmer-img-16x10.rendered.html",
+        "filename": "atoms-loading-shimmer-img-16x10"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-img-16x9/atoms-loading-shimmer-img-16x9.rendered.html",
+        "filename": "atoms-loading-shimmer-img-16x9"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-img-1x1/atoms-loading-shimmer-img-1x1.rendered.html",
+        "filename": "atoms-loading-shimmer-img-1x1"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-row/atoms-loading-shimmer-row.rendered.html",
+        "filename": "atoms-loading-shimmer-row"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-squared/atoms-loading-shimmer-squared.rendered.html",
+        "filename": "atoms-loading-shimmer-squared"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-fancy/atoms-loading-shimmer-theme-fancy.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-fancy"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-inline-fancy/atoms-loading-shimmer-theme-inline-fancy.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-inline-fancy"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-inline-neutral/atoms-loading-shimmer-theme-inline-neutral.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-inline-neutral"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-inline-notheme/atoms-loading-shimmer-theme-inline-notheme.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-inline-notheme"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-inline-primary/atoms-loading-shimmer-theme-inline-primary.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-inline-primary"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-neutral/atoms-loading-shimmer-theme-neutral.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-neutral"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-notheme/atoms-loading-shimmer-theme-notheme.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-notheme"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theme-primary/atoms-loading-shimmer-theme-primary.rendered.html",
+        "filename": "atoms-loading-shimmer-theme-primary"
+    },
+    {
+        "path": "patterns/atoms-loading-shimmer-theming-support/atoms-loading-shimmer-theming-support.rendered.html",
+        "filename": "atoms-loading-shimmer-theming-support"
+    },
+    {
+        "path": "patterns/atoms-motion-add-n-slide/atoms-motion-add-n-slide.rendered.html",
+        "filename": "atoms-motion-add-n-slide"
+    },
+    {
+        "path": "patterns/atoms-motion-animation-block/atoms-motion-animation-block.rendered.html",
+        "filename": "atoms-motion-animation-block"
+    },
+    {
+        "path": "patterns/atoms-motion-delete-n-slide/atoms-motion-delete-n-slide.rendered.html",
+        "filename": "atoms-motion-delete-n-slide"
+    },
+    {
+        "path": "patterns/atoms-table-table/atoms-table-table.rendered.html",
+        "filename": "atoms-table-table"
+    },
+    {
+        "path": "patterns/atoms-table-table-collapsable/atoms-table-table-collapsable.rendered.html",
+        "filename": "atoms-table-table-collapsable"
+    },
+    {
+        "path": "patterns/atoms-table-table-compact/atoms-table-table-compact.rendered.html",
+        "filename": "atoms-table-table-compact"
+    },
+    {
+        "path": "patterns/atoms-table-table-compact-colgroup/atoms-table-table-compact-colgroup.rendered.html",
+        "filename": "atoms-table-table-compact-colgroup"
+    },
+    {
+        "path": "patterns/atoms-table-table-sticky/atoms-table-table-sticky.rendered.html",
+        "filename": "atoms-table-table-sticky"
+    },
+    {
+        "path": "patterns/atoms-tooltip-tooltip/atoms-tooltip-tooltip.rendered.html",
+        "filename": "atoms-tooltip-tooltip"
+    },
+    {
+        "path": "patterns/atoms-typography-blockquote/atoms-typography-blockquote.rendered.html",
+        "filename": "atoms-typography-blockquote"
+    },
+    {
+        "path": "patterns/atoms-typography-font-sizes/atoms-typography-font-sizes.rendered.html",
+        "filename": "atoms-typography-font-sizes"
+    },
+    {
+        "path": "patterns/atoms-typography-headlines/atoms-typography-headlines.rendered.html",
+        "filename": "atoms-typography-headlines"
+    },
+    {
+        "path": "patterns/atoms-typography-monospace/atoms-typography-monospace.rendered.html",
+        "filename": "atoms-typography-monospace"
+    },
+    {
+        "path": "patterns/atoms-typography-paragraph/atoms-typography-paragraph.rendered.html",
+        "filename": "atoms-typography-paragraph"
+    },
+    {
+        "path": "patterns/atoms-typography-text-styles/atoms-typography-text-styles.rendered.html",
+        "filename": "atoms-typography-text-styles"
+    },
+    {
+        "path": "patterns/atoms-validation-error/atoms-validation-error.rendered.html",
+        "filename": "atoms-validation-error"
+    },
+    {
+        "path": "patterns/atoms-validation-success/atoms-validation-success.rendered.html",
+        "filename": "atoms-validation-success"
+    },
+    {
+        "path": "patterns/molecules-avatar-with-presence-avatar-presence/molecules-avatar-with-presence-avatar-presence.rendered.html",
+        "filename": "molecules-avatar-with-presence-avatar-presence"
+    },
+    {
+        "path": "patterns/molecules-avatar-with-presence-avatar-presence-16/molecules-avatar-with-presence-avatar-presence-16.rendered.html",
+        "filename": "molecules-avatar-with-presence-avatar-presence-16"
+    },
+    {
+        "path": "patterns/molecules-avatar-with-presence-avatar-presence-24/molecules-avatar-with-presence-avatar-presence-24.rendered.html",
+        "filename": "molecules-avatar-with-presence-avatar-presence-24"
+    },
+    {
+        "path": "patterns/molecules-avatar-with-presence-avatar-presence-32/molecules-avatar-with-presence-avatar-presence-32.rendered.html",
+        "filename": "molecules-avatar-with-presence-avatar-presence-32"
+    },
+    {
+        "path": "patterns/molecules-avatar-with-presence-avatar-presence-40/molecules-avatar-with-presence-avatar-presence-40.rendered.html",
+        "filename": "molecules-avatar-with-presence-avatar-presence-40"
+    },
+    {
+        "path": "patterns/molecules-avatar-with-presence-avatar-presence-48/molecules-avatar-with-presence-avatar-presence-48.rendered.html",
+        "filename": "molecules-avatar-with-presence-avatar-presence-48"
+    },
+    {
+        "path": "patterns/molecules-avatar-with-presence-avatar-presence-64/molecules-avatar-with-presence-avatar-presence-64.rendered.html",
+        "filename": "molecules-avatar-with-presence-avatar-presence-64"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-footer/molecules-cards-elements-card-footer.rendered.html",
+        "filename": "molecules-cards-elements-card-footer"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-image/molecules-cards-elements-card-image.rendered.html",
+        "filename": "molecules-cards-elements-card-image"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-image-html/molecules-cards-elements-card-image-html.rendered.html",
+        "filename": "molecules-cards-elements-card-image-html"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-location/molecules-cards-elements-card-location.rendered.html",
+        "filename": "molecules-cards-elements-card-location"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-splash-desc/molecules-cards-elements-card-splash-desc.rendered.html",
+        "filename": "molecules-cards-elements-card-splash-desc"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-splash-footer/molecules-cards-elements-card-splash-footer.rendered.html",
+        "filename": "molecules-cards-elements-card-splash-footer"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-splash-header/molecules-cards-elements-card-splash-header.rendered.html",
+        "filename": "molecules-cards-elements-card-splash-header"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-splash-title/molecules-cards-elements-card-splash-title.rendered.html",
+        "filename": "molecules-cards-elements-card-splash-title"
+    },
+    {
+        "path": "patterns/molecules-cards-elements-card-title/molecules-cards-elements-card-title.rendered.html",
+        "filename": "molecules-cards-elements-card-title"
+    },
+    {
+        "path": "patterns/molecules-dialogs-dialog-content/molecules-dialogs-dialog-content.rendered.html",
+        "filename": "molecules-dialogs-dialog-content"
+    },
+    {
+        "path": "patterns/molecules-dialogs-dialog-header/molecules-dialogs-dialog-header.rendered.html",
+        "filename": "molecules-dialogs-dialog-header"
+    },
+    {
+        "path": "patterns/molecules-forms-checkbox-group/molecules-forms-checkbox-group.rendered.html",
+        "filename": "molecules-forms-checkbox-group"
+    },
+    {
+        "path": "patterns/molecules-forms-radio-button-group/molecules-forms-radio-button-group.rendered.html",
+        "filename": "molecules-forms-radio-button-group"
+    },
+    {
+        "path": "patterns/molecules-menus-breadcrumb/molecules-menus-breadcrumb.rendered.html",
+        "filename": "molecules-menus-breadcrumb"
+    },
+    {
+        "path": "patterns/molecules-menus-cmdbar/molecules-menus-cmdbar.rendered.html",
+        "filename": "molecules-menus-cmdbar"
+    },
+    {
+        "path": "patterns/molecules-menus-cmdbar-overflow/molecules-menus-cmdbar-overflow.rendered.html",
+        "filename": "molecules-menus-cmdbar-overflow"
+    },
+    {
+        "path": "patterns/molecules-menus-nav/molecules-menus-nav.rendered.html",
+        "filename": "molecules-menus-nav"
+    },
+    {
+        "path": "patterns/molecules-menus-pivotbar/molecules-menus-pivotbar.rendered.html",
+        "filename": "molecules-menus-pivotbar"
+    },
+    {
+        "path": "patterns/molecules-menus-pivotbar-overflow/molecules-menus-pivotbar-overflow.rendered.html",
+        "filename": "molecules-menus-pivotbar-overflow"
+    },
+    {
+        "path": "patterns/molecules-menus-teams-toolbar/molecules-menus-teams-toolbar.rendered.html",
+        "filename": "molecules-menus-teams-toolbar"
+    },
+    {
+        "path": "patterns/molecules-persona-persona/molecules-persona-persona.rendered.html",
+        "filename": "molecules-persona-persona"
+    },
+    {
+        "path": "patterns/molecules-persona-persona-100/molecules-persona-persona-100.rendered.html",
+        "filename": "molecules-persona-persona-100"
+    },
+    {
+        "path": "patterns/molecules-persona-persona-24/molecules-persona-persona-24.rendered.html",
+        "filename": "molecules-persona-persona-24"
+    },
+    {
+        "path": "patterns/molecules-persona-persona-32/molecules-persona-persona-32.rendered.html",
+        "filename": "molecules-persona-persona-32"
+    },
+    {
+        "path": "patterns/molecules-persona-persona-40/molecules-persona-persona-40.rendered.html",
+        "filename": "molecules-persona-persona-40"
+    },
+    {
+        "path": "patterns/molecules-persona-persona-48/molecules-persona-persona-48.rendered.html",
+        "filename": "molecules-persona-persona-48"
+    },
+    {
+        "path": "patterns/molecules-persona-persona-72/molecules-persona-persona-72.rendered.html",
+        "filename": "molecules-persona-persona-72"
+    },
+    {
+        "path": "patterns/molecules-webpart-related-webpart-title/molecules-webpart-related-webpart-title.rendered.html",
+        "filename": "molecules-webpart-related-webpart-title"
+    },
+    {
+        "path": "patterns/organism-cards-document-card/organism-cards-document-card.rendered.html",
+        "filename": "organism-cards-document-card"
+    },
+    {
+        "path": "patterns/organism-cards-document-card-html/organism-cards-document-card-html.rendered.html",
+        "filename": "organism-cards-document-card-html"
+    },
+    {
+        "path": "patterns/organism-cards-document-card-shimmer/organism-cards-document-card-shimmer.rendered.html",
+        "filename": "organism-cards-document-card-shimmer"
+    },
+    {
+        "path": "patterns/organism-cards-teams-splash-card/organism-cards-teams-splash-card.rendered.html",
+        "filename": "organism-cards-teams-splash-card"
+    },
+    {
+        "path": "patterns/organism-dialogs-modal-dialog/organism-dialogs-modal-dialog.rendered.html",
+        "filename": "organism-dialogs-modal-dialog"
+    },
+    {
+        "path": "patterns/organism-dialogs-modal-dialog-error/organism-dialogs-modal-dialog-error.rendered.html",
+        "filename": "organism-dialogs-modal-dialog-error"
+    },
+    {
+        "path": "patterns/organism-dialogs-modal-dialog-success/organism-dialogs-modal-dialog-success.rendered.html",
+        "filename": "organism-dialogs-modal-dialog-success"
+    },
+    {
+        "path": "patterns/organism-dialogs-modal-dialog-warning/organism-dialogs-modal-dialog-warning.rendered.html",
+        "filename": "organism-dialogs-modal-dialog-warning"
+    },
+    {
+        "path": "patterns/organism-dialogs-sidebar-left/organism-dialogs-sidebar-left.rendered.html",
+        "filename": "organism-dialogs-sidebar-left"
+    },
+    {
+        "path": "patterns/organism-dialogs-sidebar-right/organism-dialogs-sidebar-right.rendered.html",
+        "filename": "organism-dialogs-sidebar-right"
+    },
+    {
+        "path": "patterns/organism-dialogs-tester-dialog/organism-dialogs-tester-dialog.rendered.html",
+        "filename": "organism-dialogs-tester-dialog"
+    },
+    {
+        "path": "patterns/organism-dialogs-tester-sidebar/organism-dialogs-tester-sidebar.rendered.html",
+        "filename": "organism-dialogs-tester-sidebar"
+    },
+    {
+        "path": "patterns/organism-facepiles-facepile/organism-facepiles-facepile.rendered.html",
+        "filename": "organism-facepiles-facepile"
+    },
+    {
+        "path": "patterns/organism-facepiles-facepile-32/organism-facepiles-facepile-32.rendered.html",
+        "filename": "organism-facepiles-facepile-32"
+    },
+    {
+        "path": "patterns/organism-facepiles-facepile-40/organism-facepiles-facepile-40.rendered.html",
+        "filename": "organism-facepiles-facepile-40"
+    },
+    {
+        "path": "patterns/organism-facepiles-facepile-48/organism-facepiles-facepile-48.rendered.html",
+        "filename": "organism-facepiles-facepile-48"
+    },
+    {
+        "path": "patterns/organism-facepiles-facepile-64/organism-facepiles-facepile-64.rendered.html",
+        "filename": "organism-facepiles-facepile-64"
+    },
+    {
+        "path": "patterns/pages-teams-teams-splash-screen/pages-teams-teams-splash-screen.rendered.html",
+        "filename": "pages-teams-teams-splash-screen"
+    },
+    {
+        "path": "patterns/pages-teams-teams-splash-screen-multi/pages-teams-teams-splash-screen-multi.rendered.html",
+        "filename": "pages-teams-teams-splash-screen-multi"
+    },
+    {
+        "path": "patterns/templates-card.grid-card-grid/templates-card.grid-card-grid.rendered.html",
+        "filename": "templates-card.grid-card-grid"
+    },
+    {
+        "path": "patterns/templates-card.grid-card-grid-html/templates-card.grid-card-grid-html.rendered.html",
+        "filename": "templates-card.grid-card-grid-html"
+    },
+    {
+        "path": "patterns/templates-teams-teams-dashboard/templates-teams-teams-dashboard.rendered.html",
+        "filename": "templates-teams-teams-dashboard"
+    },
+    {
+        "path": "patterns/templates-teams-teams-splash-screen/templates-teams-teams-splash-screen.rendered.html",
+        "filename": "templates-teams-teams-splash-screen"
+    },
+    {
+        "path": "patterns/templates-teams-teams-splash-screen-multi/templates-teams-teams-splash-screen-multi.rendered.html",
+        "filename": "templates-teams-teams-splash-screen-multi"
+    }
+]
