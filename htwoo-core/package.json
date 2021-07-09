@@ -4,9 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "run-p pl:serve test:runner",
-    "test:runner": "npx playwright test --workers 9",
-    "test:snapshots": "npx playwright test --update-snapshots",
+    "test": "run-p pl:serve pr:runner",
+    "test:snapshots": "run-p pl:serve pr:snapshots",
+    "pr:runner": "npx playwright test --workers 9",
+    "pr:snapshots": "npx playwright test --update-snapshots",
     "pl:build": "patternlab build --config ./patternlab-config.json",
     "pl:publish": "patternlab build --config ./patternlab-public.json",
     "pl:help": "patternlab --help",
