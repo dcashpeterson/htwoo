@@ -16,6 +16,7 @@ module.exports = {
         screenshot: 'only-on-failure',
         video: 'retry-with-video',
     },
+    // reporter: "dot",
     projects: [{
             name: 'Chromium',
             use: {
